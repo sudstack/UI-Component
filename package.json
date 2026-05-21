@@ -1,0 +1,13 @@
+{
+    "name": "com.sudstack.ui-component",
+    "version": "0.0.1",
+    "displayName": "UI Component",
+    "description": "A highly efficient, production-ready custom UI component library for Unity. Designed to accelerate development workflows, eliminate boilerplate code, and provide modular, performant, and deeply configurable UI elements for rapid engineering.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Sudstack",
+        "email": "",
+        "url": "https://github.com/sudstack"
+    },
+    "dependencies": {}
+}
